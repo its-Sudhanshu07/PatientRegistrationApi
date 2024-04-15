@@ -48,4 +48,12 @@ public class GlobalExceptionHandler {
 		return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
 				.body(new ResponseWrapper(exception.getMessage()));
 	}
+	
+	@ExceptionHandler(DiagnosisNotFoundException.class)
+	public ResponseEntity<ResponseWrapper> handleDiagnosisNotFoundException
+	(DiagnosisNotFoundException exception){
+		
+		return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+				.body(new ResponseWrapper(exception.getMessage()));
+	}
 }
