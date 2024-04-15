@@ -40,4 +40,12 @@ public class GlobalExceptionHandler {
 		return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
 				.body(new ResponseWrapper(exception.getMessage()));
 	}
+	
+	@ExceptionHandler(MedicineNotFoundException.class)
+	public ResponseEntity<ResponseWrapper> handleMedicineNotFoundException
+	(MedicineNotFoundException exception){
+		
+		return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+				.body(new ResponseWrapper(exception.getMessage()));
+	}
 }
