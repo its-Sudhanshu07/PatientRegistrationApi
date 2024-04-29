@@ -1,0 +1,147 @@
+2024-04-19 20:11:11,373 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-19 20:11:11,625 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-19 20:11:12,024 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 21172 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-19 20:11:12,025 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-19 20:11:12,025 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-19 20:42:21,041 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-19 20:42:21,229 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-19 20:42:21,605 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 31236 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-19 20:42:21,605 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-19 20:42:21,606 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-19 20:42:31,794 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 10.559 seconds (process running for 11.279)
+2024-04-19 23:31:22,009 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-19 23:31:22,441 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-19 23:31:23,393 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 18600 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-19 23:31:23,394 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-19 23:31:23,395 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-19 23:31:42,766 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 20.311 seconds (process running for 22.288)
+2024-04-19 23:33:49,351 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-19 23:33:49,413 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 18600 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-19 23:33:49,414 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-19 23:33:49,414 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-19 23:33:54,134 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 4.775 seconds (process running for 153.656)
+2024-04-19 23:41:19,012 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-19 23:41:19,249 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-19 23:41:19,742 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 29772 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-19 23:41:19,743 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-19 23:41:19,744 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-19 23:41:36,008 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 16.749 seconds (process running for 17.652)
+2024-04-20 04:47:05,025 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-20 04:47:05,214 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 04:47:05,584 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 31168 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 04:47:05,584 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 04:47:05,585 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 04:47:15,036 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 9.817 seconds (process running for 10.456)
+2024-04-20 04:48:41,831 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-20 04:48:41,997 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 04:48:42,338 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 14912 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 04:48:42,339 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 04:48:42,341 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 04:48:50,545 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 8.541 seconds (process running for 9.124)
+2024-04-20 11:18:30,772 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-20 11:18:31,049 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 11:18:31,508 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 20332 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 11:18:31,509 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 11:18:31,510 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 11:18:41,996 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 10.939 seconds (process running for 11.726)
+2024-04-20 11:21:43,439 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 11:21:43,505 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 20332 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 11:21:43,505 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 11:21:43,505 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 11:21:46,621 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 3.177 seconds (process running for 196.352)
+2024-04-20 11:23:49,958 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 11:23:50,003 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 20332 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 11:23:50,004 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 11:23:50,004 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 11:23:52,919 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 2.955 seconds (process running for 322.65)
+2024-04-20 11:24:41,181 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 11:24:41,217 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 20332 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 11:24:41,218 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 11:24:41,218 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 11:24:44,205 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 3.019 seconds (process running for 373.936)
+2024-04-20 11:25:39,779 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 11:25:39,816 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 20332 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 11:25:39,816 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 11:25:39,817 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 11:25:42,753 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 2.969 seconds (process running for 432.483)
+2024-04-20 11:26:09,255 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 11:26:09,286 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 20332 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 11:26:09,287 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 11:26:09,287 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 11:26:11,840 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 2.581 seconds (process running for 461.571)
+2024-04-20 11:26:18,451 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-20 11:26:18,681 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 11:26:19,175 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 30744 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 11:26:19,177 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 11:26:19,179 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 11:26:36,601 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 17.911 seconds (process running for 18.725)
+2024-04-20 11:30:06,572 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-20 11:30:06,798 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 11:30:07,312 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 15140 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 11:30:07,312 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 11:30:07,314 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 11:30:19,695 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 12.889 seconds (process running for 13.788)
+2024-04-20 11:32:52,783 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-20 11:32:53,019 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 11:32:53,532 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 20572 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 11:32:53,533 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 11:32:53,536 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 11:33:12,244 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 19.212 seconds (process running for 20.067)
+2024-04-20 11:37:15,332 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-20 11:37:15,584 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 11:37:16,108 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 12384 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 11:37:16,109 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 11:37:16,110 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 11:37:32,647 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 17.055 seconds (process running for 17.979)
+2024-04-20 12:38:58,724 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-20 12:38:58,936 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 12:38:59,414 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 26900 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 12:38:59,415 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 12:38:59,415 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 12:39:09,076 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 10.134 seconds (process running for 10.802)
+2024-04-20 13:10:27,303 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 13:10:29,933 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 26900 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 13:10:29,933 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 13:10:29,933 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 13:10:32,609 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 2.734 seconds (process running for 1894.334)
+2024-04-20 13:11:55,485 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 13:11:55,519 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 26900 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 13:11:55,521 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 13:11:55,521 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 13:11:58,054 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 2.563 seconds (process running for 1979.778)
+2024-04-20 13:52:42,903 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-20 13:52:43,132 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 13:52:43,645 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 32680 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 13:52:43,646 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 13:52:43,647 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 13:52:53,041 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 9.904 seconds (process running for 10.682)
+2024-04-20 16:00:58,664 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-20 16:00:58,882 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-20 16:00:59,325 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 22800 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-20 16:00:59,326 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-20 16:00:59,327 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-20 16:01:09,973 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 11.086 seconds (process running for 11.78)
+2024-04-21 16:26:54,419 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-21 16:26:54,676 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-21 16:26:55,079 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 14624 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-21 16:26:55,080 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-21 16:26:55,081 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-21 16:27:05,340 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 10.658 seconds (process running for 11.378)
+2024-04-25 16:13:11,451 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-25 16:13:11,676 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-25 16:13:12,087 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 3480 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-25 16:13:12,087 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-25 16:13:12,090 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-25 16:13:23,742 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 12.06 seconds (process running for 12.877)
+2024-04-25 17:00:03,008 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-25 17:00:03,178 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-25 17:00:03,546 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 19976 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-25 17:00:03,547 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-25 17:00:03,548 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-25 17:00:13,061 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 9.878 seconds (process running for 10.542)
+2024-04-25 17:29:56,185 INFO c.t.p.PatientregistrationapiApplication [main] API Loading.......
+2024-04-25 17:29:56,411 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading.......
+2024-04-25 17:29:56,836 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 19.0.2 with PID 15924 (C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi\target\classes started by sudha in C:\Users\sudha\eclipseWorkspace\patientregistrationapi\patientregistrationapi)
+2024-04-25 17:29:56,836 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-25 17:29:56,837 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-25 17:30:08,121 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 11.704 seconds (process running for 12.447)
